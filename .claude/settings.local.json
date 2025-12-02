@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python list_models.py:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
